@@ -118,7 +118,7 @@ streamlit run dashboard/app.py
 
 ## 👨‍💻 Author
 
-**Ahmed Mohamed**
+**Ahmed Khozeim**
 
 Computer Science & Business Student at Minerva University
 
